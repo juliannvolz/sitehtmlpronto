@@ -1,0 +1,292 @@
+#divPrincipal {
+  border: solid black 2px;
+  display: flex;
+  background-image: linear-gradient(90deg, rgba(255,141,0,1) 0%, rgba(255,248,20,1) 96%);
+  font-family: Century Gothic, fantasy;
+}
+
+#divSpan {
+    margin: auto;
+    margin-right: 10px;
+    font-size: 25px;
+    font-family: Century Gothic, fantasy; 
+    display: flex;
+}
+
+#logo {
+    border-radius: 60%;
+    margin-right: 25px;
+    border: solid black 1px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#divTitulo {
+    font-size: 40px;
+    font-family: Century Gothic, fantasy;
+}
+
+#divSlogan {
+    border: solid black 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-image: linear-gradient(90deg, rgba(255,141,0,1) 0%, rgba(255,248,20,1) 96%);
+    font-family: Century Gothic, fantasy;
+}
+
+#divCapa {
+    border: solid black 2px;
+    margin-top: 10px;
+    display: flex;
+    background-image: linear-gradient(90deg, rgba(255,141,0,1) 0%, rgba(255,248,20,1) 96%);
+}
+
+#lanche1 {
+    margin: auto;
+    border: solid black;
+    border-radius: 30%;
+}
+
+#lanche2 {
+    margin: auto;
+    border: solid black;
+    border-radius: 30%;
+}
+
+#lanche3 {
+    margin: auto;
+    border: solid black;
+    border-radius: 30%;
+}
+
+#lanche4 {
+    margin: auto;
+    border: solid black;
+    border-radius: 30%;
+}
+
+#imagem1 {
+    border-radius: 30%;
+}
+
+#imagem2 {
+    border-radius: 30%;
+}
+
+#imagem3 {
+    border-radius: 30%;
+}
+
+#imagem4 {
+    border-radius: 30%;
+}
+
+#divImagemCapa {
+    border: solid black 2px;
+}
+
+#divFooter {
+    border: solid black 2px;
+    text-align: center;
+    margin-top: 10px;
+    background-image: linear-gradient(90deg, rgba(255,141,0,1) 0%, rgba(255,248,20,1) 96%);
+    font-family: Century Gothic, fantasy;
+}
+
+body {
+    background-color: khaki;
+}
+
+#divPrincipalDesc {
+    border: solid black 2px;
+    display: flex;
+    background-image: linear-gradient(90deg, rgba(255,141,0,1) 0%, rgba(255,248,20,1) 96%);
+    font-family: Century Gothic, fantasy;
+  }
+
+  #divTituloDesc {
+    font-size: 40px;
+    font-family: Century Gothic, fantasy;
+}
+
+#divDesc {
+    border: solid black 2px;
+    margin-top: 10px;
+    display: flex;
+    background-image: linear-gradient(90deg, rgba(255,141,0,1) 0%, rgba(255,248,20,1) 96%);   
+}
+
+#Detalhes {
+    margin-left: 10px;
+    font-family: Century Gothic, fantasy;
+}
+
+#Produto {
+    border: solid black 2px;
+    margin-top: 10px;
+    display: flex;
+    background-image: linear-gradient(90deg, rgba(255,141,0,1) 0%, rgba(255,248,20,1) 96%);
+}
+
+#imagem1Desc{
+    border-radius: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border: solid black;
+}
+
+#lancheDesc {
+    margin-left: 400px;
+    text-decoration: underline;
+    font-family: Century Gothic, fantasy;
+}
+
+#sloganDesc {
+    margin-left: 150px;
+    font-family: Century Gothic, fantasy;
+}
+
+#Ingredientes span{
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: Century Gothic, fantasy;
+}
+
+#Promocao {
+    border: solid black 2px;
+    background-color: red;
+    font-family: Century Gothic, fantasy;
+    width: 60%;
+    text-align: center;
+}
+
+#divFooterDesc {
+    border: solid black 2px;
+    text-align: center;
+    margin-top: 10px;
+    background-image: linear-gradient(90deg, rgba(255,141,0,1) 0%, rgba(255,248,20,1) 96%);
+    font-family: Century Gothic, fantasy;
+}
+
+#botao-inicial {
+    margin-top: 70px;
+    margin-left: 750px;
+    font-family: Century Gothic, fantasy;
+}
+
+#botao-inicial button {
+    border-color: #f1c40f;
+    color: black;
+    background-image: -webkit-linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+    font-family: Century Gothic, fantasy;
+}
+
+#botao-inicial button:hover{
+    background-position: 0;
+}
+
+#pedir {
+    display: flex;
+    margin-left: 10px;
+}
+
+#botao-pedir {
+    margin-left: 150px;
+    margin-top: 25px;
+    border-color: #f1c40f;
+    color: black;
+    background-image: -webkit-linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+    font-family: Century Gothic, fantasy;
+}
+
+#botao-pedir:hover {
+    background-position: 0;
+}
+
+#info-pedido {
+    border: solid black 2px;
+    margin-top: 10px;
+    background-image: linear-gradient(90deg, rgba(255,141,0,1) 0%, rgba(255,248,20,1) 96%);
+    font-family: Century Gothic, fantasy;
+    padding: 10px;
+}
+
+#info-pedido input {
+    margin-top: 10px;
+}
+
+#info-pedido select {
+    margin-top: 10px;
+}
+
+#divCapa img:hover{
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+} 
+
+.nome-input input {
+    width: 110px;
+    background-repeat: no-repeat;
+    transition: width 0.4s ease-in-out;
+    border: 1px solid orange;
+    border-radius: 7px;
+    outline: none;
+}
+
+.nome-input input:focus {
+    width: 30%;
+    outline: none;
+}
+
+
+
+select {
+  padding: px 5px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+
+.rango {
+    border-color: #f1c40f;
+    color: black;
+    background-image: -webkit-linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+    font-family: Century Gothic, fantasy;
+}
+
+.rango:hover{
+    background-position: 0;
+}
+    
